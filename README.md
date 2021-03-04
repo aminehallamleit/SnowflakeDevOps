@@ -1,13 +1,13 @@
 # BCGDevOps
 
-cd  <code> /home/amh/Dropbox/projects/BCGDevOps/BCGDevOps/Liquibase </code> 
+ 
 
 
 #Create the database : 
 
-<code> docker run --rm -v /home/amh/Dropbox/projects/BCGDevOps/BCGDevOps/Liquibase:/liquibase/changelog liquibase/liquibase --defaultsFile=/liquibase/changelog/liquibase.properties update </code>
+<code> sh Update.sh </code>
 
 
 #Update the SQL : 
 
-<code> docker run --rm -v /home/amh/Dropbox/projects/BCGDevOps/BCGDevOps/Liquibase:/liquibase/changelog liquibase/liquibase --defaultsFile=/liquibase/changelog/liquibase.properties updateSQL </code>
+<code> sh UpdateSQL.sh </code>
