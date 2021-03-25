@@ -1,4 +1,4 @@
-# SnowflakeDevOps , Simple CI/CD pipeline using Liquibase, Docker, Octopus Deploy, Liquibase.
+# SnowflakeDevOps , Simple CI/CD pipeline using Liquibase, Docker, Octopus Deploy.
 
 This is a small github repo i'm putting as public, to show case how you can create a devops pipeline to apply changes to your snowflake using Liquibase & octopus.
 
