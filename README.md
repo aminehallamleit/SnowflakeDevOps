@@ -6,7 +6,8 @@ This is a small repo i'm sharing to show case how you can create a devops pipeli
 
 
 <strong>Liquibase Community :</strong>
-An open source project that helps millions of developers rapidly track, version, and deploy database schema changes
+An open source project that helps millions of developers rapidly track, version, and deploy database schema changes.
+
 <strong>Octopus Deploy : </strong>
 Octopus Deploy is an industry leading automated deployment and release management tool.
  
