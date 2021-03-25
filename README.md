@@ -19,7 +19,9 @@ Octopus Deploy is an industry leading automated deployment and release managemen
 <code> sh UpdateSQL.sh </code>
 
 
-This DevOps Pipeline, is from Github -> to Octopus -> snowflake 
+This DevOps Pipeline, is from <code>  Github -> to Octopus -> snowflake  </code>
+
 Octopus deployment servers ( Tentacle ) runs the liquibase using a Liquibase docker image ( official image here : https://hub.docker.com/r/liquibase/liquibase )
+
 Octopus pull releases automatically from Github using Ocotopus Github feeds and runs the Update.sh 
 
