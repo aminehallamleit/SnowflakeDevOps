@@ -1,6 +1,9 @@
 # SnowflakeDevOps , Simple Snowflake CI/CD pipeline using Liquibase, Docker, Octopus Deploy.
 
-This is a small github repo i'm putting as public, to show case how you can create a devops pipeline to apply changes to your snowflake using Liquibase & octopus.
+This is a small repo i'm sharing to show case how you can create a devops pipeline to apply changes to your snowflake using Liquibase & octopus.
+
+![Architecture Snowflake CI/CD](https://github.com/amhallam/SnowflakeDevOps/blob/main/CICD_SNOWFLAKE.png?raw=true)
+
 
 <strong>Liquibase Community :</strong>
 An open source project that helps millions of developers rapidly track, version, and deploy database schema changes
