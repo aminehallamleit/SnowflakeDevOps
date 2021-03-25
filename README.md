@@ -2,8 +2,10 @@
 
 This is a small github repo i'm putting as public, to show case how you can create a devops pipeline to apply changes to your snowflake using Liquibase & octopus.
 
-Liquibase Community is an open source project that helps millions of developers rapidly track, version, and deploy database schema changes
-Octopus Deploy : Octopus Deploy is an industry leading automated deployment and release management tool.
+#Liquibase Community :
+An open source project that helps millions of developers rapidly track, version, and deploy database schema changes
+#Octopus Deploy : 
+Octopus Deploy is an industry leading automated deployment and release management tool.
  
 
 
